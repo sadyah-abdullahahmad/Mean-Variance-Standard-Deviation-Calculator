@@ -29,4 +29,4 @@ test_lst = [2,6,2,8,4,0,1,]
 print("Result of test list four")
 test_one = mean_var_std.calculate(test_lst)
 print(test_one)
- 43  mean_var_std.py 
+
