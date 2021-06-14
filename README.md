@@ -10,6 +10,8 @@ The input of the function should be a list containing 9 digits.
 The function should convert the list into a 3 x 3 Numpy array, and then return a dictionary containing the mean, variance, standard deviation, max, min,
 and sum along both axes and for the flattened matrix.
 
+For development, you can use `main.py` to test your `calculate()` function. Click the "run" button and `main.py` will run.
+
 ## Requirements:
 
  Language: Python 3.6 or above Libraries: pandas, numpy.
